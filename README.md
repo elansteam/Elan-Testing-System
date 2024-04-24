@@ -1,8 +1,6 @@
 # Elan testing system
 Elan is a modern platform and testing system for holding programming contests. It is like [ejudge](https://ejudge.ru/) or [Yandex Contest](https://contest.yandex.ru/), but a way better.
 
-This repository contains API code, please reffer to [another repo](https://github.com/elansteam/runner) for seeing the runner source code.
-
 ## Why Elan?
 - **Modern.** Elan has a very nice and intuitive UI based on Google Material Design 3 design system.
 - **Powerful.** It supports holding IOI and ICPC contests formats, groups creation (could be useful in schools) and online VS Code-like code editor.
